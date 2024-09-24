@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    color: #fff;
+}
+
+.article {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 30px;
+}
+
+.article-image {
+    max-width: 40%;
+    height: auto;
+    margin-right: 20px;
+}
+
+.article-text {
+    max-width: 60%;
+}
+span{
+    font-size: 2.5em;
+}
+h3{
+    font-size: 4em;
+}
+h1{
+    font-size: 4em;
+}
